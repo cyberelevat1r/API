@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Atomic", "Atomic\Atomic.pyproj", "{074E7575-DEE0-48D0-A04C-A8D7B67CE2B2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Blockstream", "Blockstream\Blockstream.pyproj", "{AE9A7067-7E0D-4C85-8A12-0C2DF1928977}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mempool", "mempool\mempool.pyproj", "{D55B2014-E8AB-4E37-8797-8ADB81830875}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "btc.com", "btc.com\btc.com.pyproj", "{FF8CB578-4E43-4CCB-8634-BBF07D38E8C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{074E7575-DEE0-48D0-A04C-A8D7B67CE2B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{074E7575-DEE0-48D0-A04C-A8D7B67CE2B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE9A7067-7E0D-4C85-8A12-0C2DF1928977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE9A7067-7E0D-4C85-8A12-0C2DF1928977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55B2014-E8AB-4E37-8797-8ADB81830875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55B2014-E8AB-4E37-8797-8ADB81830875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8CB578-4E43-4CCB-8634-BBF07D38E8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8CB578-4E43-4CCB-8634-BBF07D38E8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58308986-92CE-42F7-8ADF-CA7597CDD7F6}
+	EndGlobalSection
+EndGlobal
